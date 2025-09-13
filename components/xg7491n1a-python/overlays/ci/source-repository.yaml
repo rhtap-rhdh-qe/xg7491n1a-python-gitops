@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xg7491n1a-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xg7491n1a-python
